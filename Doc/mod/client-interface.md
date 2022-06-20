@@ -9,7 +9,7 @@ The `info` object contains some useful information about the linked game client 
 - `mod.clientInterface.info.platform`: The linked game client's platform (e.g. `pc`); see `mod.platform`.
 - `mod.clientInterface.info.environment`: The linked game client's publisher-specific environment (e.g. `live`); see `mod.environment`.
 - `mod.clientInterface.info.language`: The loaded DataCenter language identifier (e.g. `eur` for EU-English)
-- `mod.clientInterface.info.path`: The full (absolute) path of the folder that contains the linked game client's `VTEQ.exe` (should always be the `Binaries` subfolder within the client's installation root folder).
+- `mod.clientInterface.info.path`: The full (absolute) path of the folder that contains the linked game client's `TERA.exe` (should always be the `Binaries` subfolder within the client's installation root folder).
 - `mod.clientInterface.info.majorPatchVersion`: The major patch version of the linked game client, as specified in `ReleaseRevision.txt`.
 - `mod.clientInterface.info.minorPatchVersion`: The minor patch version of the linked game client, as specified in `ReleaseRevision.txt`.
 - `mod.clientInterface.info.protocolVersion`: The protocol version (== DataCenter version), as sent in `C_CHECK_VERSION`.
