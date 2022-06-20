@@ -6,7 +6,7 @@ const path = require('path');
 const EventEmitter = require('events');
 
 // Constants
-const AutoUpdateServers = ['https://raw.githubusercontent.com/KYGAS/toolbox-p100.02-64bit/tree/main/Binaries'];
+const AutoUpdateServers = ['https://raw.githubusercontent.com/KYGAS/toolbox-p100.02-64bit/main/Binaries'];
 
 // Implementation
 function forcedirSync(dir) {
