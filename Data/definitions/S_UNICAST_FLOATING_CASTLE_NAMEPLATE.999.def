@@ -1,0 +1,4 @@
+array castlesNamePlates
+- string guildLogo
+- string guildName
+- string guildGm

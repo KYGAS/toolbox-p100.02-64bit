@@ -1,0 +1,7 @@
+array castles
+- int32 castleId
+- array parts
+- - byte unk1
+- - byte unk2
+- - int16 position
+- - int32 partId
