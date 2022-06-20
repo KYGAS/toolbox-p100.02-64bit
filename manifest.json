@@ -44,7 +44,7 @@
         "Binaries/bin/proxy.js": "930526ee0fbd3c2f77f4ffc9e0ab7ab82d31cfeda14619270df9788ea1f1b6d2",
         "Binaries/bin/standalone-injector.js": "a312b217bc2d5a2bedd3a86c676ef1240587ff62a71ac7b7e47f68a5b9ecfcb5",
         "Binaries/bin/update-electron.js": "40cc8fb1ce75bc3c84e478aee420d8b532e3b6bef9ccaf54714e5bc8ee9fab14",
-        "Binaries/bin/update-self.js": "9d52ee3bbde2909367faf059123f08ea1e20ab97c2f411fdcb30736758e98239",
+        "Binaries/bin/update-self.js": "a78c76370bb9efd29d361c4c3fdcae8310e5e7faa0b811d5b3fa4618427a1382",
         "Binaries/bin/update.js": "09345112c01e1068d608bc92e39816f889af0bfa7e85771ef821a45888073890",
         "Binaries/bin/utils.js": "d0a527e004507e623664ab9f7ef76bbdc0ee41ddf03fd6f1f4bd601c6487ed0c",
         "Binaries/package.json": "9fcf10fa4d665625f1adf8840738b144ba43fefdf4cabd3d4588d3f07cd18f87",
