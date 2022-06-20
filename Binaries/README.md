@@ -1,11 +1,11 @@
 # TERA Toolbox
 * Next generation of Tera-Proxy: Automatic updates, a graphical user interface, automated client mods, a direct connection to the game client (allowing e.g. realtime datacenter queries), and a lot more!
-* Feel free to visit my Discord server at https://discord.gg/dUNDDtw
+* Feel free to visit my Discord server at https://discord.gg/x9ERbVayKy
 * Please check out [the documentation](doc/main.md) (especially if you want to develop your own modules)!
 * Originally forked from https://github.com/pinkipi/tera-proxy which was DMCA'd by EME.
 
 # Installation Instructions
-* Download and run the setup from [the #toolbox channel in the Discord server](https://discord.gg/dUNDDtw) or [GitHub](https://github.com/tera-toolbox/tera-toolbox/releases/download/teratoolbox-setup/TeraToolbox.exe).
+* Download and run the setup from [the #toolbox channel in the Discord server](https://discord.gg/x9ERbVayKy) or [GitHub](https://github.com/tera-toolbox/tera-toolbox/releases/download/teratoolbox-setup/TeraToolbox.exe).
 * Please make sure to read the instructions in the Discord channel. A manual installation from GitHub is possible (install Node.JS, download this repository, and run `npm i`), but not recommended!
 * Run the shortcut created on your desktop (or `TeraToolbox.exe` in the installation folder) if you want to use toolbox with a graphical user interface (GUI; highly recommended!), or `TeraToolboxCLI.exe` in the installation folder for a command line interface (CLI).
 * The first startup after installing TERA Toolbox may take a while, depending on your internet connection. This is because all required files will be downloaded and updated automatically.

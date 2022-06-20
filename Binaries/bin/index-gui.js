@@ -2,7 +2,7 @@
 'use strict';
 require('module').wrapper[0] += `'use strict';`;
 
-const DiscordURL = 'https://discord.gg/659YbNY';
+const DiscordURL = 'https://discord.gg/x9ERbVayKy';
 
 const { app } = require('electron');
 const path = require('path');
