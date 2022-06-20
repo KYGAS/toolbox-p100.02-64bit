@@ -1,0 +1,26 @@
+{
+  "name": "tera-toolbox",
+  "version": "1.0.0",
+  "description": "Comprehensive modding framework for TERA.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KYGAS/toolbox-p100.02-64bit.git"
+  },
+  "author": "Caali/ Kygas",
+  "contributors": [
+    "Pinkie Pie",
+    "meishu",
+    "Valky Fischer"
+  ],
+  "engines": {
+    "node": ">=11.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/KYGAS/toolbox-p100.02-64bit/issues"
+  },
+  "homepage": "https://github.com/KYGAS/toolbox-p100.02-64bit/tree/main/Binaries#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "binary-search": "^1.3.6"
+  }
+}
