@@ -1,0 +1,6 @@
+{
+    "servers": ["https://raw.githubusercontent.com/KYGAS/library/master/"],
+    "supportUrl": "https://github.com/KYGAS/library/issues",
+    "name": "library",
+    "disableAutoUpdate": false
+}
